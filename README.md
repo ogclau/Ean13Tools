@@ -242,8 +242,6 @@ pytest tests/ -v
 # 16 passed in 0.04s ✓
 ```
 
----
-
 <div align="center">
 
 ---
