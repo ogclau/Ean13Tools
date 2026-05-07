@@ -108,7 +108,7 @@ pip install "ean13-tools[image]"
 
 **Development mode (editable):**
 ```bash
-git clone https://github.com/your-username/ean13-tools
+git clone https://github.com/ogclau/ean13-tools
 cd ean13-tools
 pip install -e .
 ```
