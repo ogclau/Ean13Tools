@@ -27,7 +27,7 @@
 - [📦 Installation](#-installation)
 - [💻 Python API](#-python-api)
 - [⌨️ CLI](#️-cli)
-- [⚠️ Exceptions](#️-exceptions)
+- [❗ Exceptions](#️-exceptions)
 - [🧪 Tests](#-tests)
 - [🚀 Publishing to PyPI](#-publishing-to-pypi)
 - [📑 License](#-license)
