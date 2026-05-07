@@ -29,8 +29,6 @@
 - [⌨️ CLI](#️-cli)
 - [❗ Exceptions](#️-exceptions)
 - [🧪 Tests](#-tests)
-- [🚀 Publishing to PyPI](#-publishing-to-pypi)
-- [📑 License](#-license)
 
 ---
 
@@ -243,27 +241,6 @@ pytest tests/ -v
 
 # 16 passed in 0.04s ✓
 ```
-
----
-
-## 🚀 Publishing to PyPI
-
-```bash
-# 1. Install tools
-pip install build twine
-
-# 2. Build distribution
-python -m build
-# → generates dist/ean13_tools-0.1.0.tar.gz and the .whl
-
-# 3. Upload to PyPI
-python -m twine upload dist/*
-
-# 4. Install from anywhere
-pip install ean13-tools
-```
-
-> Bump the `version` field in `pyproject.toml` before each new release.
 
 ---
 
