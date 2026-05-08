@@ -4,7 +4,7 @@
 
 # EAN-13 TOOLS · v0.1.0
 
-[![Español](https://img.shields.io/badge/Version-Español-00FF99?style=for-the-badge&labelColor=0d1117)](README.es.md)
+[![Español](https://img.shields.io/badge/Version-Español-00FF99?style=for-the-badge&labelColor=0d1117)](README.es_ean13.md)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-F02468?style=for-the-badge&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-3.9+-ffd700?style=for-the-badge&labelColor=0d1117)
 ![Tests](https://img.shields.io/badge/Tests-16%20passing-27F549?style=for-the-badge&labelColor=0d1117)
