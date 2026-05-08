@@ -87,7 +87,6 @@ ean13-tools/
 ✔  Installable CLI: `ean13` command available globally
 ✔  Descriptive exceptions with exact error messages
 ✔  16 automated tests with pytest
-✔  One-command publish to PyPI
 ```
 
 ---
