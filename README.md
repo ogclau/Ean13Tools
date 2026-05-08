@@ -4,6 +4,7 @@
 
 # EAN-13 TOOLS · v0.1.0
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
+
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-F02468?style=for-the-badge&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-3.9+-ffd700?style=for-the-badge&labelColor=0d1117)
 ![Tests](https://img.shields.io/badge/Tests-16%20passing-00ff99?style=for-the-badge&labelColor=0d1117)
