@@ -69,11 +69,9 @@ ean13-tools/
 │   ├── cli.py               ← `ean13` terminal command
 │   └── exceptions.py        ← Custom exception hierarchy
 │
-├── tests/
-│   └── test_ean13.py        ← 16 tests · pytest
-│
-├── pyproject.toml           ← pip/PyPI config · optional deps
-└── README.md
+└── tests/
+   └── test_ean13.py        ← 16 tests · pytest
+
 ```
 
 ---
