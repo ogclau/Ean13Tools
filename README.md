@@ -7,7 +7,7 @@
 [![Español](https://img.shields.io/badge/Version-Español-00FF99?style=for-the-badge&labelColor=0d1117)](README.es.md)
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-F02468?style=for-the-badge&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-3.9+-ffd700?style=for-the-badge&labelColor=0d1117)
-![Tests](https://img.shields.io/badge/Tests-16%20passing-00ff99?style=for-the-badge&labelColor=0d1117)
+![Tests](https://img.shields.io/badge/Tests-16%20passing-27F549?style=for-the-badge&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-ff6b6b?style=for-the-badge&labelColor=0d1117)
 ![PyPI](https://img.shields.io/badge/PyPI-ready-ff00ff?style=for-the-badge&labelColor=0d1117)
 ![Deps](https://img.shields.io/badge/Dependencies-0_(core)-00cfff?style=for-the-badge&labelColor=0d1117)
