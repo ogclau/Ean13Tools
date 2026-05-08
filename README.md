@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=700&pause=100&color=00FF99&center=true&vCenter=true&width=900&lines=%5B+0.001s+%5D+init+ean13.engine...;%5B+0.028s+%5D+loading+iso_iec_15420+tables...;%5B+0.061s+%5D+L.parity+table+%5BOK%5D;%5B+0.089s+%5D+G.parity+table+%5BOK%5D;%5B+0.112s+%5D+R.parity+table+%5BOK%5D;%5B+0.145s+%5D+check.digit+algorithm+ready;%5B+0.178s+%5D+validator+module+online;%5B+0.210s+%5D+ascii.renderer+active;%5B+0.244s+%5D+svg.engine+loaded;%5B+0.277s+%5D+png.engine+standby+(optional);%5B+0.301s+%5D+cli+registered+as+%60ean13%60;%5B+0.335s+%5D+16+tests+%5BPASS%5D;%5B+0.360s+%5D+integrity+check+%5BOK%5D;%5B+0.388s+%5D+ean13-tools+%3A+READY;%3E+BARCODE+ENGINE+ONLINE_)](https://git.io/typing-svg)
 
 # EAN-13 TOOLS · v0.1.0
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 ![Status](https://img.shields.io/badge/STATUS-ACTIVE-F02468?style=for-the-badge&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-3.9+-ffd700?style=for-the-badge&labelColor=0d1117)
@@ -12,7 +11,10 @@
 ![PyPI](https://img.shields.io/badge/PyPI-ready-ff00ff?style=for-the-badge&labelColor=0d1117)
 ![Deps](https://img.shields.io/badge/Dependencies-0_(core)-00cfff?style=for-the-badge&labelColor=0d1117)
 
+
 **Generation · Validation · ASCII · SVG · PNG · CLI · ISO/IEC 15420**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 *Modular, professional and reusable. Zero dependencies in the core.*
 
