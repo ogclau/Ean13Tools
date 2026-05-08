@@ -14,13 +14,11 @@
 
 **Generation · Validation · ASCII · SVG · PNG · CLI · ISO/IEC 15420**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
-
 *Modular, professional and reusable. Zero dependencies in the core.*
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 ## 📚 INDEX
 
