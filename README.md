@@ -242,12 +242,10 @@ pytest tests/ -v
 
 <div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 *Built with pure Python · ISO/IEC 15420 · Designed to be reused*
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f?style=flat-square&logo=python&labelColor=0d1117)
 ![EAN-13](https://img.shields.io/badge/Standard-ISO%2FIEC_15420-00ff99?style=flat-square&labelColor=0d1117)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,50:00d4ff,100:00ff88&height=3&section=footer&reversal=true" width="100%"/>
 
 </div>
