@@ -90,6 +90,7 @@ ean13-tools/
 ✔  Descriptive exceptions with exact error messages
 ✔  16 automated tests with pytest
 ```
+<img src="ean13_neon_dark.svg" width="100%"/>
 
 ---
 
